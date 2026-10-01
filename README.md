@@ -2,51 +2,43 @@
 
 ## > Sobre Mim: 
 #### 📓 - Formando em Análise e Desenvolvimento de Sistemas & sou técnico no mesmo curso
-#### 💾 - Dev. FullStack
+#### 💾 - Dev. FullStack | Estudando pentest & SOC analytics
 <br>
 
 ## > Contato:
 <a href="mailto:DevLuizHBarros@gmail.com"><code><img src="https://img.shields.io/badge/Gmail-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
 
-## > Linguagens:
-<!-- <p align='center'>
-  <div align='center'>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,sass,styledcomponents,nodejs,express,sequelize,java,spring,postgresql&perline=5"/>
-    <br>
-  </div>
-</p> -->
+## > Linguagens e tecnologias:
 <div>
-  <img src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" />  
-  <img src="https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" />  
-  <img src="https://img.shields.io/badge/wordpress-%2320232a.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/elementor-%2320232a.svg?style=for-the-badge&logo=elementor&logoColor=white" />  
-  <img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring boot-%2320232a.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=663399" />
+  <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring%20boot-%2320232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/wordpress-%2320232a.svg?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/elementor-%2320232a.svg?style=for-the-badge&logo=elementor&logoColor=92003B" />
 </div>
 
 <br>
 
-## > Ferramentas:
+## > Outros conhecimentos:
 <div>
-  <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=photoshop&logoColor=white" />  
-  <img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </div>
 
 <br>
 
 ## > Estudando:
-<div>  
-  <img src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=aws&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/metasploit-%2320232a.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/burp%20suite-%2320232a.svg?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
 </div>
 
 <br>
