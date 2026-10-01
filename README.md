@@ -31,6 +31,10 @@
 <div>
   <img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/hack%20the%20box-%2320232a.svg?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/tryhackme-%2320232a.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/claude%20code-%2320232a.svg?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/prompt%20engineering-%2320232a.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
 </div>
 
 <br>
@@ -39,6 +43,14 @@
 <div>
   <img src="https://img.shields.io/badge/metasploit-%2320232a.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/burp%20suite-%2320232a.svg?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/kali%20linux-%2320232a.svg?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/wireshark-%2320232a.svg?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/owasp-%2320232a.svg?style=for-the-badge&logo=owasp&logoColor=white" />  
+  <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/splunk-%2320232a.svg?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/virustotal-%2320232a.svg?style=for-the-badge&logo=virustotal&logoColor=394EFF" />
 </div>
 
 <br>
